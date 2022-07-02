@@ -48,7 +48,7 @@ function ToggleDarkMode() {
   return (
     <HStack space={2} alignItems="center">
       <DashBoard />
-      <Text>Light</Text>
+      <Text>Light tgusfd</Text>
       <Dashboard />
     </HStack>
   );
